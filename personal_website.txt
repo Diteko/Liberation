@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Journal - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .interests {
+            margin-top: 20px;
+        }
+
+        .interests h2 {
+            color: #333;
+        }
+
+        .interests ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .interests li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            color: #999;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to The Journal's Personal Webpage</h1>
+        </header>
+        <section>
+            <p>Hello there! I'm The Journal. Welcome to my personal webpage.</p>
+            <div class="interests">
+                <h2>Interests</h2>
+                <ul>
+                    <li>Writing</li>
+                    <li>Reading</li>
+                    <li>Exploring new places</li>
+                </ul>
+            </div>
+        </section>
+        <footer>
+            <p>Thank you for visiting!</p>
+        </footer>
+    </div>
+</body>
+
+</html>
+
